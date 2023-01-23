@@ -1,0 +1,1 @@
+# Accurate Reaction Barriers for Catalytic Pathways: An Automatic Training Protocol for Machine Learning Force Fields
